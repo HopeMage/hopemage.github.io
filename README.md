@@ -1,2 +1,2 @@
-# GitHub-Pages-website
-repo for a static GitHub Pages websites
+# hopemage.github.io
+repository for my static GitHub Pages website
