@@ -7,3 +7,9 @@
 main{
     margin-left:15%;
 }
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap: 100px;
+}
