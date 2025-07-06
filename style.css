@@ -1,3 +1,9 @@
 main{
   text-align: center;
 }
+hr{
+  background-color: black;
+  border: 0;
+  height: 1.5px;
+  width: 55%;
+}
