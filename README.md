@@ -1,2 +1,2 @@
-# hopemage.github.io
-repository for my static GitHub Pages website
+Just a newb with big dreams :)
+Check out my GitHub Pages website: hopemage.github.io/hopemage
